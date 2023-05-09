@@ -33,7 +33,7 @@
 <a name="desc"></a>
 ## Start Project 
 - At first, clone the project
->      https://github.com/mahmoudmohamed22/DBMS-BashScript.git
+>      https://github.com/Fahd-DevOps/DBMS-BashScript.git
 - Then, start the project
 >       ./MainMenu.sh
 
